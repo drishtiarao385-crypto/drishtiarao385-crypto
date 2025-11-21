@@ -60,19 +60,6 @@ TODO: Write 3–4 short points about yourself.
 ### Badges & activity
 
 <div align="center">
-  
-  <!--
-  TODO:
-  - Go to https://holopin.io, sign in, and get your own badge link if you want.
-  - Replace `gaureshpai` with YOUR Holopin username.
-  - Or delete this block if you don't use Holopin.
-  -->
-  <a href="https://holopin.io/@gDrishti">
-    <img src="https://holopin.me/gaureshpai" alt="Holopin badges">
-  </a>
-
-  <br><br>
-
   <!--
   TODO:
   - Change `username=Drishti` to YOUR GitHub username
@@ -108,26 +95,3 @@ TODO: Write 3–4 short points about yourself.
   </a>
 
 </div>
-
----
-
-### Your tasks
-
-<!--
-TODO:
-- These are the things students MUST do after forking.
-- You can read and follow one by one.
--->
-
-1. Replace **all occurrences** of `Drishti` with **your GitHub username**.  
-2. Update LinkedIn / Twitter / Portfolio links to YOUR actual links (or remove if not applicable).  
-3. Edit the **About me** section to describe YOU.  
-4. Push your changes and check how your profile looks on your GitHub profile page.  
-
----
-
-### Tips
-
-- Start simple; you can always come back and improve this README later.  
-- Try changing themes/colors in the URLs and see how the cards change.  
-- If something breaks, check for typos in the `username=` or your links.  
